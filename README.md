@@ -2,7 +2,7 @@
 <br>
 This is a simple calculator Application.
 <br>
-**Features**
+<fint size = "15",style = "bold">Features</fint>
 <br>
 *Addition
 <br>
